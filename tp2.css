@@ -1,0 +1,72 @@
+.container {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #000000;
+  -webkit-text-fill-color: rgb(255, 255, 255);
+}
+
+body {
+  background-color: #000000;
+}
+
+header {
+  text-align: center;
+  -webkit-text-fill-color: rgb(189, 233, 12);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  border: 4px solid gold;
+  padding: 10px;
+}
+hr {
+  border: 1px solid whitesmoke;
+}
+
+h1 {
+  font-size: 35px;
+  margin-bottom: 20px;
+}
+
+
+li {
+  margin-bottom: 10px;
+}
+
+#tribute-info {
+  margin-top: 30px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ol{
+  font-size: 22PX;
+}
+p {
+  font-size: 22px;
+  line-height: 1.5;
+  margin-bottom: 10px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p1 {
+  font-size: 22px;
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+footer {
+  font-size: 18px;
+  margin-top: 5px;
+  background-color: rgb(2, 83, 2);
+}
+.text-center a {
+  color: deepskyblue;
+}
+footer p {
+  font-size: 20px;
+  text-align: center;
+  font-family: cursive;
+  -webkit-text-fill-color: rgb(188, 234, 25);
+}
